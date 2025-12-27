@@ -1,0 +1,19 @@
+//
+//  ViewController.swift
+//  DAM2_FINAL_Ventura
+//
+//  Created by brstn on 27/12/25.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
